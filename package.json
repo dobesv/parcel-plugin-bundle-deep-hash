@@ -1,0 +1,14 @@
+{
+  "name": "parcel-plugin-bundle-deep-hash",
+  "version": "1.0.1",
+  "description": "Workaround filename hashing issue in parcel bundler",
+  "main": "index.js",
+  "author": "Dobes Vandermeer",
+  "license": "MIT",
+  "devDependencies": {
+    "parcel-bundler": "^1.10.3"
+  },
+  "peerDependencies": {
+    "parcel-bundler": ">=1.10.3"
+  }
+}
