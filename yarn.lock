@@ -3194,7 +3194,7 @@ pako@~1.0.5:
   resolved "https://registry.yarnpkg.com/pako/-/pako-1.0.6.tgz#0101211baa70c4bca4a0f63f2206e97b7dfaf258"
   integrity sha512-lQe48YPsMJAig+yngZ87Lus+NF+3mtu7DVOBu6b/gHO1YpKwIj5AWjZ/TOS7i46HD/UixzWb1zeWDZfGZ3iYcg==
 
-parcel-bundler@^1.10.3:
+parcel-bundler@1.10.3:
   version "1.10.3"
   resolved "https://registry.yarnpkg.com/parcel-bundler/-/parcel-bundler-1.10.3.tgz#8502b40d3f23139093b25e82658f6060f025c024"
   integrity sha512-Lj31fr5o2AZFbazghL/MrubzvJEXLwx24rd3MiR3lncmqCXbd5q0hgl1kpV6X+vRaN9/cSDR8G0lotmgl5OyZg==
